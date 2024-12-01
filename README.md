@@ -3,3 +3,5 @@ Le contrat de service sera publier et disponible au  "localhost:8686/BanqueWS?ws
 
 2- Pour consomer le web service lancer le client . Les methodes sont déjà générer dans le proxy
 et une classe pour les faire appels
+
+JDK 8
