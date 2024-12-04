@@ -7,8 +7,10 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="ClientWS" />
-        <module name="WB_SOA" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="WB_SOA" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>
